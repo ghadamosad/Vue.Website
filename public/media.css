@@ -1,0 +1,27 @@
+@media (max-width:600px){
+    
+    header .content h1{
+        font-size: 80px;
+    }
+    .about .content{
+        margin-bottom: 30px;
+    }
+    .news ul li{
+        margin-bottom: 50px;
+    }
+    .news .content{
+        margin-bottom: 20px;
+        padding-left: 20px;
+    }
+    .news .all ul li{
+        display: block;
+    }
+    .game .content{
+        margin-bottom: 20px;
+    }
+    .sub button{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .video .text{display: none;}
+}
